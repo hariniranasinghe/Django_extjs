@@ -8,7 +8,7 @@ To install all dependencies Globally on your System, run
 
 	sudo pip3 install -r requirements.txt
 
-This will install
+install requirements.
 
  - django 1.6 (stable at the time of writing)
  - djangorestframework (automatically expose django models as REST-Api-Calls)
