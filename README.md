@@ -3,11 +3,6 @@ Django is a wonderful framework on the Serverside and ExtJS ist a clear win for 
 
 To understand the explanations below, you should go through at least Part 1 & 2 of the [Django 1.6 Tutorial](https://docs.djangoproject.com/en/1.6/intro/tutorial01/). Instead of adding HTML-Templates in Part 3, we'll add a REST-Api and on top of that a nice ExtJS Application.
 
-## Installing the dependencies
-To install all dependencies Globally on your System, run
-
-	sudo pip3 install -r requirements.txt
-
 This will install
 
  - django 1.6 (stable at the time of writing)
